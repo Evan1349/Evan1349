@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Ich bin Evan und auch ein **Softwareentwickler**.😄  Ich verfüge über siebensmonatig Erfahrung in der Softwareentwicklung und begeistere mich für **Mathematik**.🌱
+Ich bin Evan und auch **Softwareentwickler**.😄  Ich verfüge über siebensmonatige Erfahrung in der Softwareentwicklung und begeistere mich für **Mathematik**.🌱
 <!--
 **Evan1349/Evan1349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
